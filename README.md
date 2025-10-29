@@ -11,3 +11,4 @@ This project combines data preprocessing, exploratory data analysis (EDA), machi
 ✅ Interactive Dashboard: Built with Streamlit — users can upload resumes (PDF/TXT) and view classification and extracted insights in real-time.
 ✅ Data Visualization: Uses Matplotlib to show skill frequency, domain distribution, and text insights with subtle, modern charts.
 ✅ Clean Preprocessing Pipeline: Handles text cleaning, tokenization, and lemmatization efficiently.
+HELPING ME FOR ANALYSIS
