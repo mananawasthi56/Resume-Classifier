@@ -1,0 +1,7 @@
+id,resume_text,label
+1,"Experienced Python developer with pandas, numpy, scikit-learn. Built ML models.",ml
+2,"Front-end engineer skilled in HTML, CSS, JavaScript, React.",frontend
+3,"Data analyst experienced with SQL, Power BI, Excel, visualization.",data
+4,"Machine learning intern with TensorFlow, PyTorch, deep learning projects.",ml
+5,"QA engineer with Selenium, automated testing, Python scripting.",qa
+6,"Full stack developer: Node.js, Express, React, MongoDB.",fullstack
